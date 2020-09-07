@@ -19,7 +19,7 @@ Three key differences between the June and December temperature comparison:
 
 The results were as a person would expect - June had a higher average/mean temperature and a higher max temperature, while December had a lower average/mean temperature with a lower min and max temperature. Surprisingly, the max temperature was only 2 degrees F lower and the mean/average was only 3 degrees lower. This means the climate in the areas observed stays fairly consistent throughout the seasons, which is definitely not the norm in the contiguous United States.
 
-### 2 Additional queries that could add more weather information
+### 2 Additional queries that could add more weather information:
 
 1) We could add a groupby for the stations to better understand the summary statistics by station, something similar to the module, such as session.query(Measurement.station, func.count(Measurement.station)).group_by(Measurement.station) + the additional information that is being researched
 
