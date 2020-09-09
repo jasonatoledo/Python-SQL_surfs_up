@@ -14,6 +14,12 @@ Three key differences between the June and December temperature comparison:
 
 - The standard deviation was larger in the December statistics
 
+I was able to match the summary statistics to exactly what was posted in the challenge:
+
+https://github.com/jasonatoledo/Python-SQL_surfs_up/blob/master/june_df.png
+
+https://github.com/jasonatoledo/Python-SQL_surfs_up/blob/master/dec_df.png
+
 
 ## Summary
 
